@@ -78,7 +78,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'OnlineMarket.wsgi.application'
+WSGI_APPLICATION = 'onlinemarketde.wsgi.application'
 
 
 # Database
